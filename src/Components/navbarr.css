@@ -1,0 +1,48 @@
+.nav-3{
+  
+  font-size: xx-large;
+  margin-top: 19px;
+  margin-right: -11px;
+    
+}
+
+.nav-1{
+    background-color: rgb(60, 60, 62);
+    border: solid black 2px;
+    font-size: larger;
+   
+}
+.nav-2{
+    width: 90vw;
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+    color: white;
+    justify-content: space-between;
+    margin: auto;
+
+}
+
+.nav-left{
+   display: flex;
+ 
+}
+.nav1{
+ margin-top: 0px;
+}
+.nav1 p{
+  border-radius: 50%;
+  border: solid rgb(0, 0, 0) 3px;
+  background:rgba(239, 0, 0, 0.85);
+  position:absolute;
+  line-height:.4em;
+ font-size: 19px;
+ padding:3px;
+ margin-right: 10px;
+
+}
+.navlink{
+  text-decoration: none;
+  margin: 2px;
+ color: aliceblue;
+}
